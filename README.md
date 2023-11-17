@@ -1,5 +1,8 @@
 # Currency Converter
 
+![Screenshot Capture - 2023-11-17 - 11-38-39](https://github.com/petboa/Currency-Converter/assets/112291489/882401de-fead-4db0-87e3-7a2eee7dc227)
+
+
 Welcome to the Currency Converter! This simple web application allows users to convert currencies easily. It is built using HTML, CSS, and JavaScript to provide a user-friendly interface and seamless currency conversion.
 
 ## Getting Started
